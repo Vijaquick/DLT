@@ -1,0 +1,4 @@
+order_id,customer_id,product_name,price,quantity,total_price
+1001,101,iphone 17 pro,"1,50,000",1,150000
+1002,103,dell labtop lattitude 5430,"1,25,000",1,125000
+1003,101,bag,"2,000",1,2000

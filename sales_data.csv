@@ -1,0 +1,10 @@
+employee,depart,name,date,sales
+E001,Electronics,Alice,01-01-2024,1200
+E002,Electronics,Bob,02-01-2024,1100
+E001,Electronics,Alice,03-01-2024,1300
+C001,Clothing,Charlie,01-01-2024,800
+C002,Clothing,David,02-01-2024,950
+C001,Clothing,Charlie,03-01-2024,1000
+G001,Groceries,Eva,01-01-2024,500
+G001,Groceries,Eva,02-01-2024,550
+G002,Groceries,Frank,03-01-2024,600
